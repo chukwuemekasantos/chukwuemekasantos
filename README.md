@@ -1,4 +1,5 @@
-### <h2>Hello World i'm Anthony aka Santos 👋</h2>
+### <h2>Hello World, i'm Anthony aka Santos 👋</h2>
+<h4>Passionate about writing software that solves problems in a creative way</h4>
 
 <!--
 **chukwuemekasantos/chukwuemekasantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +11,7 @@
 - 💬 Ask me about Web2 and Blockchain Development
 - 📫 How to reach me: <a href="https://twitter.com/santos_codes" target="_blank">Twitter</a>
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Love Cooking 😍
+- ⚡ Fun fact:  I love playing video games and Cooking 😍
 
 ### Talk with me, I am kinda awesome:
 <img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/144/000000/linkedin.png" /><a href="www.linkedin.com/in/chukwuemeka-anthony-5a082716a" target="_blank">LinkedIn</a>
