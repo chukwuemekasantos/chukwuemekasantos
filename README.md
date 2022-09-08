@@ -5,7 +5,7 @@
 -->
 
 
-- 🔭 I’m currently working on <a href="tixhive.com" target="_blank">Tixhive</a>, <a href="helene.ng" target="_blank">Helene</a>
+- 🔭 I’m currently working on <a href="https://tixhive.com" target="_blank">Tixhive</a>, <a href="https://www.helene.ng" target="_blank">Helene</a>
 - 🌱 I’m currently learning DeFi
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... -->
