@@ -13,7 +13,7 @@
 - ⚡ Fun fact: Love Cooking 😍
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/144/000000/linkedin.png" /><a href="www.linkedin.com/in/chukwuemeka-anthony-5a082716a" target="_blank">LinkedIn</a>
 
 <br />
 
@@ -29,7 +29,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/dusk/64/000000/postman-api.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Laravel" width="26px" src="https://img.icons8.com/fluency/48/000000/laravel.png" />
-<img align="left" alt="Solidity" width="26px"  src="https://img.icons8.com/ios-filled/100/000000/solidity.png" />
+<img align="left" alt="Solidity" width="26px"  src="https://img.icons8.com/ios/50/000000/solidity.png" />
 
 
 <br />
