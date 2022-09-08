@@ -1,4 +1,4 @@
-### Hello World i'm Anthony aka Santos 👋
+### <h2>Hello World i'm Anthony aka Santos 👋</h2>
 
 <!--
 **chukwuemekasantos/chukwuemekasantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
