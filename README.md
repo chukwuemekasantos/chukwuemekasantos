@@ -34,15 +34,9 @@
 
 <br />
 
- <img  alt="Santos's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chukwuemekasantos&show_icons=true&theme=radical" />
-
+ <img align="left" alt="Santos's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chukwuemekasantos&show_icons=true&theme=radical" />
 
 <br/>
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img  alt="Santos's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chukwuemekasantos" />
-
-</details>
+<img align="left" alt="Santos's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chukwuemekasantos" />
 
