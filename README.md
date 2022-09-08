@@ -5,12 +5,12 @@
 -->
 
 
-- 🔭 I’m currently working on tixhive.com, helene.ng
+- 🔭 I’m currently working on <a href="tixhive.com" target="_blank">Tixhive</a>, <a href="helene.ng" target="_blank">Helene</a>
 - 🌱 I’m currently learning DeFi
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Web2 and Blockchain Development
-- 📫 How to reach me: (twitter)(https://twitter.com/santos_codes)
+- 📫 How to reach me: <a href="https://twitter.com/santos_codes" target="_blank">Twitter</a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
