@@ -14,7 +14,7 @@
 - ⚡ Fun fact:  I love playing video games and Cooking 😍
 
 ### Talk with me, I am kinda awesome:
-<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/144/000000/linkedin.png" /><a href="www.linkedin.com/in/chukwuemeka-anthony-5a082716a" target="_blank">LinkedIn</a>
+<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/144/000000/linkedin.png" /><a href="https://linkedin.com/in/chukwuemeka-anthony-5a082716a" target="_blank">LinkedIn</a>
 
 <br />
 
