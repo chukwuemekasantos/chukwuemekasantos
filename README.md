@@ -6,7 +6,6 @@
 -->
 
 
-- 🔭 I’m currently working on My Self
 - 🌱 I’m currently learning DeFi
 - 💬 Ask me about Web2 and Blockchain Development
 - 📫 How to reach me: <a href="https://twitter.com/santos_codes" target="_blank">Twitter</a>
